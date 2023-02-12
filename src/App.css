@@ -206,7 +206,7 @@ header .logo span{
   .showTask li{
     width: 100%;
   }
-  .addTask{
-    padding: 20px;
+  .addTask form button{
+    padding: 3px 10px;
   }
 }
